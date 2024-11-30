@@ -1,9 +1,9 @@
 # Analog-CMOS-VLSI-Design
 - 130nm Technology Library
 - Vg: 0V to 1.2V (step size of 0.01V)
-- Length: 120nm to 1100nm (step size of 100nm)
+- Length: 120nm to 1120nm (step size of 100nm)
 - Width : 2000um
-- Vd : 0.6
+- Vd : 0.6V
 ## NMOS Techplots
 
 ### 1. gm*ro vs gm/Id
